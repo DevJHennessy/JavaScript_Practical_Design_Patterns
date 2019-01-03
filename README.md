@@ -1,3 +1,3 @@
 <h1>Practical Design Patterns in JavaScript</h1>
 
-<p>A <a href="https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents">Pluralsight Course</a> </p>
+<p>A <a href="https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents">Pluralsight Course</a> that focuses on implementing Object-Oriented development styles into JavaScript. This include the Gang of Four (Erich Gamma, Richard, Helm, Ralph Johnson, and John Vlissides) and their common patterns for Object-Oriented software development. It boils down to seeing common problems developers face and using common solutions. Types of problems and solutions: 1) Designing Service Layers. Solution: Module Pattern. 2) Overly Complicated Object Interfaces. Solution: The Facade Pattern. 3) Visibility Into State Changes. Solution: Observer Pattern.</p>
